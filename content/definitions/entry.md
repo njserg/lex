@@ -1,5 +1,5 @@
 ---
 title: Definition Entry
-order: 1
+order: 2
 ---
-A jovial, kind-hearted homo sapien who loves [creativity and web development](https://nicksergent.com). This elusive creature has been observed on the continents of North America, South America, Europe, and Australia.
+Avid gamer, sci-fi and fantasy film/series enthusiast, and electronic music event connoisseur.
