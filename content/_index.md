@@ -1,15 +1,16 @@
 ---
-title: John Bon Doe
-part_of_speech: pronoun
-pronunciation: Jyawwnn Dough
-synonyms: Jonny, Jon Bon Doughy
-description: >-
-   A Personal Definition of John Bon Doe
 animation: fadeIn
-twitter: https://twitter.com/
-facebook: https://www.facebook.com/
-instagram: https://www.instagram.com/
-email: johndoe@gmail.com
+title: Nick Sergent
+description: A Personal Definition of Nick Sergent
+part_of_speech: pronoun
+pronunciation: /nɪk/ /sɜr · jnt/
+synonyms: Nicholas
+email: njserg@ymail.com
+facebook: ""
+twitter: ""
+instagram: https://www.instagram.com/nick.sergent/
+github: https://github.com/njserg/
 sitemap:
   priority: 1
+linkedin: https://www.linkedin.com/in/nick-sergent/
 ---
