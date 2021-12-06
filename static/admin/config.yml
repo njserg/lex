@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
-  repo: njserg/lexicon-site
-  branch: master
+  repo: njserg/lex
+  branch: main
 media_folder: "static/img"
 public_folder: "/img"
 collections:
