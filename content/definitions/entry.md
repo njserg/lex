@@ -1,6 +1,5 @@
 ---
-title: Test Definition Entry
+title: Definition Entry
 order: 2
 ---
-
-[A Random Inline Link](https://kristopherray.com/), consectetur adipiscing elit. Duis tincidunt, lectus ut tincidunt sodales, eros nulla pretium felis, vel tempor sem nisl sit amet leo. Vivamus maximus risus quis lectus luctus, in dapibus purus tincidunt. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+A jovial, kind-hearted individual who loves creativity and web development. This elusive creature has been observed on the continents of North America, South America, Europe, and Australia.
