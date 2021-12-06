@@ -3,7 +3,7 @@ animation: bounce
 title: Nick Sergent
 description: A Personal Definition of Nick Sergent
 part_of_speech: pronoun
-pronunciation: /nɪk/ /sɜr · jnt/
+pronunciation: nɪk sɜr · jnt
 synonyms: Nicholas
 email: njserg@ymail.com
 facebook: ""
