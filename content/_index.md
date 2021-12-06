@@ -1,5 +1,5 @@
 ---
-animation: bounce
+animation: slideInLeft
 title: Nick Sergent
 description: A Personal Definition of Nick Sergent
 part_of_speech: pronoun
